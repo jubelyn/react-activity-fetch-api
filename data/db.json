@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Bags",
+      "price": 3232
+    },
+    {
+      "id": 2,
+      "name": "Shoes",
+      "price": 42455
+    },
+    {
+      "id": 3,
+      "name": "Dress",
+      "price": 66342
+    },
+    {
+      "id": 4,
+      "name": "Cars",
+      "price": 1244512
+    },
+    {
+      "id": 5,
+      "name": "House",
+      "price": 52124221
+    },
+    {
+      "id": 6,
+      "name": "Sandals",
+      "price": 552124
+    },
+    {
+      "id": 7,
+      "name": "House",
+      "price": 52124221
+    }
+  ]
+}
